@@ -1,0 +1,16 @@
+{
+  "name": "thongnv/psrBasic",
+  "description": "Exercise of Composer & Module",
+  "authors": [
+    {
+      "name": "Nguyen Van Thong",
+      "email": "thongnv@smartosc.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "thongnv\\": "src/thongnv"
+    }
+  },
+  "require": {}
+}
